@@ -1,3 +1,9 @@
+//Andrew Kwak
+//Fancy 8 Queens
+//Modify the Eight Queens program (1 dimensional array – no goto version) so that it prints out a
+//chessboard with some “fancy” representation of a queen in the appropriate positions.
+
+
 #include <iostream>
 #include <cmath>
 using namespace std;
