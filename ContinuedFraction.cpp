@@ -1,6 +1,12 @@
 //
 //  main.cpp
 //  Continued Fraction
+//For question #1, write a function that returns a double (recursive or non-recursive). 
+//For questions #2 and #3 you have two choices:
+//1. Write 2 functions, one recursive and one non-recursive, that return a 2-element integer array.
+//OR
+//2. Write 1 function that returns a 2-element integer array (recursive or non-recursive), and another function that returns a Rat.
+
 //
 //  Created by Andrew Kwak on 5/12/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
