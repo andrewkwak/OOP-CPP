@@ -1,4 +1,6 @@
 //Andrew Kwak - 8 Queens Homework
+//The goal is to place 8 queens on a chessboard such that no two queens threaten each other.
+//No two queens may be in the same row, column, or diagonal. 
 
 
 #include <iostream>
