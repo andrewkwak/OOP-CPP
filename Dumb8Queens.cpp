@@ -1,6 +1,9 @@
 //
 //  main.cpp
 //  dumb8queens
+//The goal is to place 8 queens on a chessboard such that no two queens threaten each other.
+//No two queens may be in the same row, column, or diagonal. 
+//Determined using just for loops, instead of a function.
 //
 //  Created by Andrew Kwak on 3/3/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
