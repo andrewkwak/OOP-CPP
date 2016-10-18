@@ -1,6 +1,9 @@
 //
 //  main.cpp
 //  8queens1d
+//The goal is to place 8 queens on a chessboard such that no two queens threaten each other.
+//No two queens may be in the same row, column, or diagonal. 
+//Implemented using a 1D Array.
 //
 //  Created by Andrew Kwak on 2/23/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
