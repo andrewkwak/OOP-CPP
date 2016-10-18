@@ -1,7 +1,10 @@
 //
 //  main.cpp
 //  KBishop
-//
+
+//The goal is to place k bishops on an nxn chessboard such that no two bishops threaten each other. 
+//No two bishops may be in the same diagonal.
+
 //  Created by Andrew Kwak on 4/16/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
 //
