@@ -1,3 +1,10 @@
+//Andrew Kwak
+//N-Queens
+
+//By the “n queens problem” we mean the problem of placing n queens on an nXn “chessboard”
+//in such a way that no queen can capture any other on the next move. In class we solved the “8
+//queens” problem.
+
 #include <iostream>
 #include <cmath>
 using namespace std;
