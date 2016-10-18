@@ -1,3 +1,12 @@
+//Andrew Kwak
+//Towers of Hanoi
+
+//The goal is to move all of the disks from one tower to another tower, with the following rules:
+
+//Move one disk at a time
+//You may only move a disk from the top of a tower to the top of another tower.
+//Never place a larger disk on a smaller disk.
+
 #include<iostream>
 #include<vector>
 using namespace std;
