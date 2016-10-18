@@ -2,6 +2,8 @@
 //  main.cpp
 //  Rat
 //
+//Create a Rational Number class 
+
 //  Created by Andrew Kwak on 5/5/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
 //
