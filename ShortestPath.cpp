@@ -1,6 +1,12 @@
 //
 //  main.cpp
 //  Path
+
+//The goal is to find the shortest path through a 2D grid, from left to right.
+//A path must visit exactly one square in each column, and each square in the path must be adjacent to the previous square (horizontally or diagonally). 
+//The grid is cylindrical, which means that the top row is touching the bottom row. 
+//The number in each square (the weight) tells you the amount of time it takes to travel through the square. 
+//The shortest path is the path with the shortest possible total time. The path in the picture above has a total time of 2 + 1 + 3 = 6.
 //
 //  Created by Andrew Kwak on 4/21/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
