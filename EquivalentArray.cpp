@@ -1,3 +1,11 @@
+//Andrew Kwak
+//Equivalent Arrays
+//Definition: Let a and b be two integer arrays of the same length. We say that they are “shift
+//equivalent” if array a can be right shifted to create array b. 
+//Write a function which takes two arrays a and b of length n and returns true is they are shift equivalent and false
+//therwise.
+
+
 #include <iostream>
 using namespace std;
 
