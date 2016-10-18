@@ -1,6 +1,11 @@
 //
 //  main.cpp
-//  prac
+//
+//The goal is to match each man with a woman while avoiding instabilities.
+//This is an instability if:
+
+    //Man#1 and Woman#2 both like each other more than their own spouse, OR
+    //Man#2 and Woman#1 both like each other more than their own spouse.
 //
 //  Created by Andrew Kwak on 3/9/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
