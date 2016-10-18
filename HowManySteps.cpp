@@ -1,7 +1,11 @@
 //
 //  main.cpp
 //  Steps
-//
+//There are 20 students who enter a line, one at a time.
+//Each student enters the line in the correct spot, such that the line is still in height order (ascending). 
+//Everyone behind him (i.e. the taller students) takes 1 step back to make room for the new student. 
+//The goal is to count the total number of steps.
+
 //  Created by Andrew Kwak on 4/16/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
 //
