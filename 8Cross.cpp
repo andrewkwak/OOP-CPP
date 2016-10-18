@@ -4,7 +4,14 @@
 //
 //  Created by Andrew Kwak on 2/29/16.
 //  Copyright © 2016 Andrew Kwak. All rights reserved.
-//
+//        ________
+//    ___|___|___|___
+//   |___|___|___|___|
+//       |___|___|
+// 
+//Write a program which allocates the integers 1-8 to the squares in the figure above, subject to
+//the restrictions that no two adjacent squares contain consecutive integers.
+
 
 #include <iostream>
 #include <cmath>
