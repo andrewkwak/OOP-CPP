@@ -1,4 +1,4 @@
-# OOP-CPP
+#OOP-CPP
 
-All description of the project can be found here.
-http://venus.cs.qc.cuny.edu/~waxman/211/assignments.html
+Description for each project can be found commented in the file.
+As well as comments explaining the step process.
